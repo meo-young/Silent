@@ -2,6 +2,7 @@
 
 #pragma once
 
+#include "Engine/StaticMeshActor.h"
 #include "Camera/CameraComponent.h"
 #include "CoreMinimal.h"
 #include "GameFramework/Pawn.h"
